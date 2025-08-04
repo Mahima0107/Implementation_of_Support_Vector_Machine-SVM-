@@ -18,7 +18,7 @@ SVM identifies the optimal hyperplane that maximizes the margin between classes.
 This leads to robust generalization on unseen data and reduces the risk of overfitting.
 
 📌 Feature Influence & Model Behavior
-Petal length and petal width are the most influential features.
+* Petal length and petal width are the most influential features.
 SVM learns that smaller petal values correspond to setosa, while larger ones correspond to virginica.
 Support vectors play a critical role in defining the decision boundary.
 Only a subset of training samples (support vectors) influence the final model.
